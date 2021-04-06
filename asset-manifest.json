@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/e-portfolio/static/css/main.022eb82c.chunk.css",
+    "main.js": "/e-portfolio/static/js/main.c6d9742a.chunk.js",
+    "main.js.map": "/e-portfolio/static/js/main.c6d9742a.chunk.js.map",
+    "runtime-main.js": "/e-portfolio/static/js/runtime-main.6129b6e7.js",
+    "runtime-main.js.map": "/e-portfolio/static/js/runtime-main.6129b6e7.js.map",
+    "static/js/2.c6a95f53.chunk.js": "/e-portfolio/static/js/2.c6a95f53.chunk.js",
+    "static/js/2.c6a95f53.chunk.js.map": "/e-portfolio/static/js/2.c6a95f53.chunk.js.map",
+    "index.html": "/e-portfolio/index.html",
+    "precache-manifest.301d85ab334358021270421152b405cd.js": "/e-portfolio/precache-manifest.301d85ab334358021270421152b405cd.js",
+    "service-worker.js": "/e-portfolio/service-worker.js",
+    "static/css/main.022eb82c.chunk.css.map": "/e-portfolio/static/css/main.022eb82c.chunk.css.map",
+    "static/js/2.c6a95f53.chunk.js.LICENSE.txt": "/e-portfolio/static/js/2.c6a95f53.chunk.js.LICENSE.txt",
+    "static/media/hashirshoaeb.png": "/e-portfolio/static/media/hashirshoaeb.32f6b574.png",
+    "static/media/resume.pdf": "/e-portfolio/static/media/resume.9d3da0e2.pdf",
+    "static/media/saidelaboudi.jfif": "/e-portfolio/static/media/saidelaboudi.beeb892f.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6129b6e7.js",
+    "static/js/2.c6a95f53.chunk.js",
+    "static/css/main.022eb82c.chunk.css",
+    "static/js/main.c6d9742a.chunk.js"
+  ]
+}
